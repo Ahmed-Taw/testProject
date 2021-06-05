@@ -1,0 +1,393 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Tawfik\\Training Projects\\Gateways\\Gateway.Business.Tests\\Gateway.Business.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Tawfik\\Training Projects\\Gateways\\Gateway.Business.Tests\\Gateway.Business.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tawfik\\Training Projects\\Gateways\\Gateway.Business.Tests\\Gateway.Business.Tests.csproj",
+        "projectName": "Gateway.Business.Tests",
+        "projectPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gateway.Business.Tests\\Gateway.Business.Tests.csproj",
+        "packagesPath": "C:\\Users\\ATawfik\\.nuget\\packages\\",
+        "outputPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gateway.Business.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ATawfik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer.Infrastructure\\Gatways.BusinessLayer.Infrastructure.csproj": {
+                "projectPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer.Infrastructure\\Gatways.BusinessLayer.Infrastructure.csproj"
+              },
+              "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer\\Gatways.BusinessLayer.csproj": {
+                "projectPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer\\Gatways.BusinessLayer.csproj"
+              },
+              "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer.Infrastructure\\Gatways.Dataaccesslayer.Infrastructure.csproj": {
+                "projectPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer.Infrastructure\\Gatways.Dataaccesslayer.Infrastructure.csproj"
+              },
+              "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer\\Gatways.Dataaccesslayer.csproj": {
+                "projectPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer\\Gatways.Dataaccesslayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "AutoFixture.Xunit2": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer.Infrastructure\\Gatways.BusinessLayer.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer.Infrastructure\\Gatways.BusinessLayer.Infrastructure.csproj",
+        "projectName": "Gatways.BusinessLayer.Infrastructure",
+        "projectPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer.Infrastructure\\Gatways.BusinessLayer.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ATawfik\\.nuget\\packages\\",
+        "outputPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ATawfik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer\\Gatways.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer\\Gatways.BusinessLayer.csproj",
+        "projectName": "Gatways.BusinessLayer",
+        "projectPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer\\Gatways.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\ATawfik\\.nuget\\packages\\",
+        "outputPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ATawfik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer.Infrastructure\\Gatways.BusinessLayer.Infrastructure.csproj": {
+                "projectPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer.Infrastructure\\Gatways.BusinessLayer.Infrastructure.csproj"
+              },
+              "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer.Infrastructure\\Gatways.Dataaccesslayer.Infrastructure.csproj": {
+                "projectPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer.Infrastructure\\Gatways.Dataaccesslayer.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer.Infrastructure\\Gatways.Dataaccesslayer.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer.Infrastructure\\Gatways.Dataaccesslayer.Infrastructure.csproj",
+        "projectName": "Gatways.Dataaccesslayer.Infrastructure",
+        "projectPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer.Infrastructure\\Gatways.Dataaccesslayer.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ATawfik\\.nuget\\packages\\",
+        "outputPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ATawfik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer\\Gatways.Dataaccesslayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer\\Gatways.Dataaccesslayer.csproj",
+        "projectName": "Gatways.Dataaccesslayer",
+        "projectPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer\\Gatways.Dataaccesslayer.csproj",
+        "packagesPath": "C:\\Users\\ATawfik\\.nuget\\packages\\",
+        "outputPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ATawfik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer.Infrastructure\\Gatways.Dataaccesslayer.Infrastructure.csproj": {
+                "projectPath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.Dataaccesslayer.Infrastructure\\Gatways.Dataaccesslayer.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

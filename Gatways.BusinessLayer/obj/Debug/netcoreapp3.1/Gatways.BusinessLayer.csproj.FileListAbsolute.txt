@@ -1,0 +1,14 @@
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\bin\Debug\netcoreapp3.1\Gatways.BusinessLayer.deps.json
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\bin\Debug\netcoreapp3.1\Gatways.BusinessLayer.dll
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\bin\Debug\netcoreapp3.1\Gatways.BusinessLayer.pdb
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\bin\Debug\netcoreapp3.1\Gatways.BusinessLayer.Infrastructure.dll
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\bin\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.Infrastructure.dll
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\bin\Debug\netcoreapp3.1\Gatways.BusinessLayer.Infrastructure.pdb
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\bin\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.Infrastructure.pdb
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\obj\Debug\netcoreapp3.1\Gatways.BusinessLayer.csprojAssemblyReference.cache
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\obj\Debug\netcoreapp3.1\Gatways.BusinessLayer.AssemblyInfoInputs.cache
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\obj\Debug\netcoreapp3.1\Gatways.BusinessLayer.AssemblyInfo.cs
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\obj\Debug\netcoreapp3.1\Gatways.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\obj\Debug\netcoreapp3.1\Gatways.BusinessLayer.csproj.CopyComplete
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\obj\Debug\netcoreapp3.1\Gatways.BusinessLayer.dll
+D:\Tawfik\Training Projects\Gateways\Gatways.BusinessLayer\obj\Debug\netcoreapp3.1\Gatways.BusinessLayer.pdb

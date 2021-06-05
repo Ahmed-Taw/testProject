@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LKtt5YkDSgEUUhzb/QFuwNb50BpK8/iqUte6K/+VApO9G2EcSl0NcsxrjIKyNFPLryWGjIYdV6ItjiPTH7Jpig==",
+  "success": true,
+  "projectFilePath": "D:\\Tawfik\\Training Projects\\Gateways\\Gatways.BusinessLayer\\Gatways.BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ATawfik\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\ATawfik\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ATawfik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ATawfik\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

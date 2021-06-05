@@ -1,0 +1,15 @@
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\bin\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.deps.json
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\bin\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.runtimeconfig.json
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\bin\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.runtimeconfig.dev.json
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\bin\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.dll
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\bin\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.pdb
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\bin\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.Infrastructure.dll
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\bin\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.Infrastructure.pdb
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\obj\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.csprojAssemblyReference.cache
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\obj\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.AssemblyInfoInputs.cache
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\obj\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.AssemblyInfo.cs
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\obj\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.csproj.CoreCompileInputs.cache
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\obj\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.csproj.CopyComplete
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\obj\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.dll
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\obj\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.pdb
+D:\Tawfik\Training Projects\Gateways\Gatways.Dataaccesslayer\obj\Debug\netcoreapp3.1\Gatways.Dataaccesslayer.genruntimeconfig.cache
