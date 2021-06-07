@@ -23,7 +23,6 @@ namespace Gatways.Dataaccesslayer.Infrastructure.Entities
         [ForeignKey("Status")]
         [Required]
         public int StatusId { get; set; }
-        public  PeripheralDeviceStatus Status { get; set; }
 
     }
 }

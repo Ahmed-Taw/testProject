@@ -8,8 +8,6 @@ namespace Gateways.Models
 {
     public class PeripheralDeviceModel
     {
-      //  public int Id { get; set; }
-
         public string Vendor { get; set; }
 
         public DateTime CreatedDate { get; set; }

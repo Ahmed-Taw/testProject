@@ -89,9 +89,18 @@ namespace Gateways.Controllers
 
         public IActionResult DeleteGatewayPeripheralDevice(int deviceId)
         {
-            var result = _gatewayService.DeleteDeviceFromGateway(deviceId);
+            try
+            {
+                var result = _gatewayService.DeleteDeviceFromGateway(deviceId);
 
-            return Ok(result);
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+
+                return StatusCode((int)HttpStatusCode.InternalServerError, ex.Message);
+            }
+
         }
     }
 }

@@ -63,6 +63,8 @@ namespace Gatways.BusinessLayer.Services
         public bool DeleteDeviceFromGateway(int deviceId)
         {
             var device = _unitofWork.PeripheralDeviceRepo.GetById(deviceId);
+            if (device == null)
+                throw new Exception("Can not delete not existing device");
             _unitofWork.PeripheralDeviceRepo.Remove(device);
             return _unitofWork.Complete() > 0;
         }
