@@ -42,7 +42,7 @@ namespace Gateways
                 });
             });
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,6 +52,9 @@ namespace Gateways
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseCors(builder => builder.WithOrigins("http://localhost:4200")
+                                          .AllowAnyMethod()
+                                          .AllowAnyHeader());
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
